@@ -130,7 +130,7 @@ const Landing = () => {
 
             {/* Subheadline */}
             <p className="text-xl text-gray-400 max-w-3xl mx-auto mb-10">
-              Chess. com for robotics.  Unified ratings, tournament management, and 
+              Chess.com for robotics.  Unified ratings, tournament management, and 
               accessible pathways to make robotics a legitimate sport.
             </p>
 
