@@ -1,0 +1,93 @@
+{
+  "recentMatches": [
+    {
+      "id": 1,
+      "tournament": "FIRST Robotics Online League",
+      "opponent": "Sarah Kim",
+      "opponentRating": 1802,
+      "result": "win",
+      "ratingChange": 12,
+      "date": "2026-02-28",
+      "category": "Autonomous Navigation"
+    },
+    {
+      "id": 2,
+      "tournament": "Weekly Rating Rush",
+      "opponent":  "Lucas Schmidt",
+      "opponentRating": 1834,
+      "result": "win",
+      "ratingChange":  14,
+      "date": "2026-02-25",
+      "category": "Multi-discipline"
+    },
+    {
+      "id": 3,
+      "tournament": "VEX Online Challenge",
+      "opponent": "Emma Wilson",
+      "opponentRating": 1890,
+      "result": "loss",
+      "ratingChange":  -8,
+      "date": "2026-02-20",
+      "category": "Combat Robots"
+    },
+    {
+      "id": 4,
+      "tournament": "Mediterranean Open",
+      "opponent": "Thomas Dubois",
+      "opponentRating": 1867,
+      "result": "win",
+      "ratingChange":  15,
+      "date": "2026-02-15",
+      "category": "Autonomous Navigation"
+    }
+  ],
+  "bracketData": {
+    "tournamentId": 1,
+    "rounds": [
+      {
+        "name": "Round of 16",
+        "matches":  [
+          { "id": "r1m1", "player1": { "name": "Alex Chen", "rating": 1847, "score": 3 }, "player2": { "name": "Omar Benali", "rating": 1534, "score": 1 }, "winner": "player1" },
+          { "id": "r1m2", "player1": { "name": "James Miller", "rating": 2156, "score": 3 }, "player2": { "name": "Maria Garcia", "rating": 1567, "score": 0 }, "winner": "player1" },
+          { "id":  "r1m3", "player1": { "name": "Chen Wei", "rating": 2089, "score": 3 }, "player2": { "name":  "Raj Patel", "rating": 1612, "score": 2 }, "winner": "player1" },
+          { "id": "r1m4", "player1":  { "name": "Sofia Andersson", "rating": 1978, "score": 2 }, "player2": { "name": "Mohamed Hassan", "rating": 1920, "score": 3 }, "winner": "player2" },
+          { "id": "r1m5", "player1":  { "name": "Yuki Tanaka", "rating":  1945, "score": 3 }, "player2": { "name":  "Liam O'Brien", "rating": 1734, "score": 1 }, "winner": "player1" },
+          { "id": "r1m6", "player1":  { "name": "Anastasia Volkov", "rating":  2012, "score": 3 }, "player2": { "name":  "David Okonkwo", "rating": 1756, "score": 2 }, "winner": "player1" },
+          { "id": "r1m7", "player1":  { "name": "Emma Wilson", "rating": 1890, "score": 1 }, "player2": { "name": "Viktor Kozlov", "rating": 1956, "score": 3 }, "winner": "player2" },
+          { "id":  "r1m8", "player1": { "name": "Kenji Yamamoto", "rating": 2134, "score": 3 }, "player2": { "name":  "Sarah Kim", "rating": 1802, "score": 0 }, "winner": "player1" }
+        ]
+      },
+      {
+        "name": "Quarterfinals",
+        "matches": [
+          { "id":  "r2m1", "player1":  { "name": "Alex Chen", "rating": 1847, "score": 3 }, "player2": { "name":  "James Miller", "rating": 2156, "score": 2 }, "winner": "player1" },
+          { "id":  "r2m2", "player1": { "name": "Chen Wei", "rating": 2089, "score": 3 }, "player2": { "name": "Mohamed Hassan", "rating": 1920, "score": 1 }, "winner": "player1" },
+          { "id":  "r2m3", "player1": { "name": "Yuki Tanaka", "rating":  1945, "score": 2 }, "player2": { "name": "Anastasia Volkov", "rating":  2012, "score": 3 }, "winner": "player2" },
+          { "id":  "r2m4", "player1": { "name": "Viktor Kozlov", "rating": 1956, "score": 1 }, "player2": { "name": "Kenji Yamamoto", "rating": 2134, "score":  3 }, "winner": "player2" }
+        ]
+      },
+      {
+        "name": "Semifinals",
+        "matches": [
+          { "id": "r3m1", "player1":  { "name": "Alex Chen", "rating": 1847, "score": 3 }, "player2": { "name": "Chen Wei", "rating": 2089, "score": 2 }, "winner": "player1" },
+          { "id":  "r3m2", "player1": { "name": "Anastasia Volkov", "rating":  2012, "score": 1 }, "player2": { "name": "Kenji Yamamoto", "rating":  2134, "score": 3 }, "winner": "player2" }
+        ]
+      },
+      {
+        "name": "Finals",
+        "matches": [
+          { "id": "r4m1", "player1": { "name": "Alex Chen", "rating": 1847, "score": 3 }, "player2": { "name": "Kenji Yamamoto", "rating":  2134, "score": 2 }, "winner": "player1" }
+        ]
+      }
+    ]
+  },
+  "ratingHistory": [
+    { "date": "2025-09-01", "rating": 1500 },
+    { "date": "2025-10-01", "rating": 1567 },
+    { "date":  "2025-11-01", "rating": 1623 },
+    { "date":  "2025-12-01", "rating": 1712 },
+    { "date":  "2026-01-01", "rating": 1789 },
+    { "date":  "2026-02-01", "rating": 1823 },
+    { "date":  "2026-03-01", "rating": 1847 }
+  ]
+}
